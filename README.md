@@ -1,5 +1,14 @@
-🌈Hi, I'm WswSummer15, a java developer from china~
+Hi there 👋 I'm WswSummer15~🌈
+<a href="https://twitter.com/delokkkk">
+  <img align="left" alt="chuhemiao | Twitter" width="21px" src="https://raw.githubusercontent.com/chuhemiao/chuhemiao/master/assets/twitter.svg" />
+</a>
 
+<a href="https://t.me/kkdelos">
+  <img align="left" alt="chuhemiao | Telegram" width="21px" src="https://raw.githubusercontent.com/chuhemiao/chuhemiao/master/assets/telegram.svg" />
+</a>
+
+<br />
+<br />
 
 **Trending**  
 
