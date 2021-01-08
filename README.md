@@ -24,7 +24,7 @@
 
 ---
 
-#### :bar_chart: Weekly development breakdown
+### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
