@@ -8,7 +8,8 @@
   <img align="left" alt="WswSummer15 | Telegram" width="21px" src="https://raw.githubusercontent.com/WswSummer15/WswSummer15/master/assets/telegram.svg" />
 </a>
 
----
+<br/>
+<br/>
 
 <a href="https://github.com/WswSummer15/WswSummer15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WswSummer15&show_icons=true&include_all_commits=true&theme=radical&&count_private=true" alt="WswSummer15's github stats" />
