@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/WswSummer15/WswSummer15">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WswSummer15&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WswSummer15&layout=compact&theme=radical" />
 </a>
 
 ---
