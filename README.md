@@ -1,4 +1,15 @@
 🌈Hi, I'm WswSummer15, a java developer from china~
-***
-![WswSummer15's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=WswSummer15&hide=ipynb,html&layout=compact)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WswSummer15&hide=ipynb,html&layout=compact)
+
+
+**Trending**  
+
+<a href="https://github.com/WswSummer15/WswSummer15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WswSummer15&show_icons=true&include_all_commits=true&theme=radical&&count_private=true" alt="WswSummer15's github stats" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/WswSummer15/WswSummer15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WswSummer15&layout=compact&theme=radical" />
+</a>
