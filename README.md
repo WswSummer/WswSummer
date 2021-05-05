@@ -16,8 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-XML          15 mins         ██████████████████▓░░░░░░   74.85 % 
-Markdown     4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.92 % 
+XML          6 mins          ███████████████████████▓░   94.76 % 
 ```
 <!--END_SECTION:waka-->
 
