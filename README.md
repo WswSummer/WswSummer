@@ -1,9 +1,5 @@
 ### 🌈Hi there, I'm WswSummer15~
 
-<a href="https://github.com/WswSummer15/WswSummer15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WswSummer15&show_icons=true&include_all_commits=true&theme=radical&&count_private=true" alt="WswSummer15's github stats" />
-</a>
-
 ### 🤝🏻 Connect with Me
 
 <a href="https://twitter.com/WenSummer15">
@@ -18,3 +14,9 @@
 <br/>
 
 ⭐️ From [WswSummer15](https://github.com/WswSummer15)
+
+---
+
+<a href="https://github.com/WswSummer15/WswSummer15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WswSummer15&show_icons=true&include_all_commits=true&theme=radical&&count_private=true" alt="WswSummer15's github stats" />
+</a>
