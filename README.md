@@ -2,11 +2,11 @@
 
 ### 🤝🏻 Connect with Me
 
-<a href="https://twitter.com/WenSummer">
+<a href="https://twitter.com/WenSummer15">
   <img align="left" alt="WswSummer | Twitter" width="21px" src="https://raw.githubusercontent.com/WswSummer15/WswSummer15/master/assets/twitter.svg" />
 </a>
 
-<a href="https://t.me/SumSwen">
+<a href="https://t.me/Summerfifteen">
   <img align="left" alt="WswSummer | Telegram" width="21px" src="https://raw.githubusercontent.com/WswSummer15/WswSummer15/master/assets/telegram.svg" />
 </a>
 
