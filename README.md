@@ -18,5 +18,5 @@
 ---
 
 <a href="https://github.com/WswSummer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WswSummer15&show_icons=true&include_all_commits=true&theme=radical&&count_private=true" alt="WswSummer's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WswSummer&show_icons=true&include_all_commits=true&theme=radical&&count_private=true" alt="WswSummer's github stats" />
 </a>
